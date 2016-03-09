@@ -1,0 +1,24 @@
+@media screen {
+  .title {background-color:#e0c126;}
+  .title {border-color:#e0c126;}
+  .primary-color {color:#e0c126;}
+  .title {color:#ffffff;}
+  .subtitle {background-color:#3a3332;}
+  .secondary-color {color:#3a3332;}
+  .subtitle {color:#ffffff;}
+}
+body {
+  font-family:'Raleway';
+}
+.title {
+  font-family:'Lato';
+}
+#content {
+  margin-top:0;
+}
+.item.contact a,
+.item.contact a:visited {
+  cursor: pointer;
+  color: #282828;
+  text-decoration: none;
+}
